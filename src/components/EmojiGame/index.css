@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}
+.main-container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+  margin-top: 0px;
+}
+.emojicontainer {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
